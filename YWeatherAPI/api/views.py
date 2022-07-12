@@ -89,8 +89,8 @@ class ReportView(APIView):
                     for time in day_list:
                         mid_time = mid_time + time[1].split('…')
                         if count3 == 2:
-                            mid_tuple = tuple(map(int, mid_time))
-                            mid_val = round((sum(mid_tuple)/len(mid_tuple)), 1)
+                            m_tuple = tuple(map(int, mid_time))
+                            mid_val = round((sum(m_tuple) / len(m_tuple)), 1)
                             mid_val_list.append(mid_val)
                             mid_time = []
                             count3 = 0
