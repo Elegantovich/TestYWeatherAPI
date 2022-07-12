@@ -1,6 +1,6 @@
 # TestYWeatherAPI
 
-![Status](https://github.com/elegantovich/TestYWeather/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/elegantovich/TestYWeatherAPI/actions/workflows/main.yml/badge.svg)
 ## Description
 Проект для обработки данных с интерфейса сервиса "Яндекс Погода".
 
