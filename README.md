@@ -5,7 +5,7 @@
 Проект для обработки данных с интерфейса сервиса "Яндекс Погода".
 
 ### Tech
-Python 3.10, Selenium 4.3, Pandas 1.3
+Python 3.10, Selenium 4.3, Pandas 1.3, Django 3.2, RF
 
 
 ### How to start a project:
